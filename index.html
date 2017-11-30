@@ -30,7 +30,7 @@
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item dropdown active">
-            <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gal Gadot</a>
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Emma Watson</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
               <a class="dropdown-item" href="#">Log Out</a>
             </div>
@@ -43,16 +43,18 @@
       <h2>CS 465 Lecture</h2>
       <div class="starter-template">
         <p>Your Participation Score</p>
-        <h1>4</h1>
+        <h1><span id="numerical_score">5</span></h1>
         <hr>
-        <h1>93%</h1>
-        <p>Better than 93% of your classmates</p>
+        <h1><span id="percentile_large">95</span>%</h1>
+        <p>Better than <span id="percentile_small">95</span>% of your classmates</p>
         <hr>
-        <h1>1/200</h1>
-        <p>You have a 0.5% chance of being called on during the next lecture</p>
+        <h1>1/<span id="call_odds">800</span></h1>
+        <p>You have a <span id="call_odds_percent">0.125</span>% chance of being called on during the next lecture</p>
+        <p class="text-muted"><small>We'll send an email to ewatson2@illinois.edu if this passes <b>40%</b></small></p>
       </div>
 
     </div><!-- /.container -->
+    <script src="index.js"></script>
 
 
     <!-- Bootstrap core JavaScript
