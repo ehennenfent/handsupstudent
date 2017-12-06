@@ -1,0 +1,22 @@
+{
+  "aishwarya": {"score": 2, "email": "arai2@illinois.edu", "name": "Aishwarya Rai", "did_volunteer": false, "group": 0},
+  "brad_pitt": {"score": -4, "email": "bpitt2@illinois.edu", "name": "Brad Pitt", "did_volunteer": false, "group": 0},
+  "charlize_theron": {"score": 3, "email": "ctheron2@illinois.edu", "name": "Charlize Theron", "did_volunteer": false, "group": 0},
+  "chris": {"score": -2, "email": "chris@illinois.edu", "name": "Chris Evans", "did_volunteer": false, "group": 0},
+  "emma": {"score": -5, "email": "ewatson2@illinois.edu", "name": "Emma Watson", "did_volunteer": false, "group": 0},
+  "felicity_jones": {"score": -1, "email": "fjones2@illinois.edu", "name": "Felicity Jones", "did_volunteer": false, "group": 0},
+  "gal_gadot": {"score": 0, "email": "ggadot2@illinois.edu", "name": "Gal Gadot", "did_volunteer": false, "group": 0},
+  "george_clooney": {"score": 0, "email": "gclooney2@illinois.edu", "name": "George Clooney", "did_volunteer": false, "group": 0},
+  "johnny": {"score": 4, "email": "johnny@illinois.edu", "name": "Johnny Depp", "did_volunteer": true, "group": 0},
+  "liam_neeson": {"score": 1, "email": "lneeson2@illinois.edu", "name": "Liam Neeson", "did_volunteer": false, "group": 0},
+  "margot": {"score": 1, "email": "mrobie2@illinois.edu", "name": "Margot Robbie", "did_volunteer": false, "group": 0},
+  "matt_damon": {"score": 1, "email": "mdamon2@illinois.edu", "name": "Matt Damon", "did_volunteer": false, "group": 0},
+  "meryl_streep": {"score": 0, "email": "mstreep2@illinois.edu", "name": "Meryl Streep", "did_volunteer": false, "group": 0},
+  "priyanka": {"score": 2, "email": "priyanka@illinois.edu", "name": "Priyanka Chopra", "did_volunteer": false, "group": 0},
+  "robert_downey_jr": {"score": 0, "email": "rdowney2@illinois.edu", "name": "Robert Downey Jr", "did_volunteer": false, "group": 0},
+  "ryan_gosling": {"score": 3, "email": "rgosling2@illinois.edu", "name": "Ryan Gosling", "did_volunteer": false, "group": 0},
+  "scarlett": {"score": 0, "email": "sjohansen2@illinois.edu", "name": "Scarlett Johansson", "did_volunteer": false, "group": 0},
+  "stone_emma": {"score": 2, "email": "estone2@illinois.edu", "name": "Emma Stone", "did_volunteer": false, "group": 0},
+  "tom_cruise": {"score": 6, "email": "tcruise2@illinois.edu", "name": "Tom Cruise", "did_volunteer": false, "group": 0},
+  "will_smith": {"score": -1, "email": "wsmith2@illinois.edu", "name": "Will Smith", "did_volunteer": false, "group": 0}
+}
